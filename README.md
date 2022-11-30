@@ -1,4 +1,4 @@
-- 👋 Hi, This is Tim Huynh 🇻🇳🇺🇸
+- 👋 Hi, This is Tim Huynh, Huỳnh Tuấn Quốc 🇻🇳🇺🇸
 - 👀 I’m interested in Web Development, Cloud Computing, DevOps, System Design, etc.
 - 🌱 I’m currently working on a personal DevOps system
 - 💡 I'm proficient in Python, JavaScript, TypeScript, Golang, HTML/CSS, SQL
