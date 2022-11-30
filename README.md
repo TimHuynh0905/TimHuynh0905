@@ -1,6 +1,6 @@
 - 👋 Hi, This is Tim Huynh, Huỳnh Tuấn Quốc 🇻🇳🇺🇸
 - 👀 I’m interested in Web Development, Cloud Computing, DevOps, System Design, etc.
-- 🌱 I’m currently working on a [template](https://github.com/TimHuynh0905/lambda-ts) for developing, testing, and deploying AWS Lambda functions in TypeScript
+- 🌱 I’m currently working on a personal [template](https://github.com/TimHuynh0905/lambda-ts) for developing, testing, and deploying AWS Lambda functions in TypeScript
 - 💡 I'm proficient in Python, JavaScript, TypeScript, Golang, HTML/CSS, SQL
 - 😎 My tech stack includes Flask, Express.js, React, Lit, AWS, GCP, Docker, REST, GraphQL, Docker, Terraform, Git
 
